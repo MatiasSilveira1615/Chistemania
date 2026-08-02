@@ -1,0 +1,201 @@
+/* ---------------------------- */
+/* ESTILOS GENERALES */
+/* ---------------------------- */
+
+body{
+
+    background:#fff8b0;
+
+    font-family:Arial, Helvetica, sans-serif;
+
+    margin:0;
+
+    text-align:center;
+
+}
+
+/* ---------------------------- */
+
+header{
+
+    background:#ffb300;
+
+    padding:25px;
+
+}
+
+/* ---------------------------- */
+
+header img{
+
+    width:120px;
+
+}
+
+/* ---------------------------- */
+
+h1{
+
+    color:#0b5394;
+
+}
+
+/* ---------------------------- */
+
+nav{
+
+    background:#2196f3;
+
+    padding:15px;
+
+}
+
+/* ---------------------------- */
+
+nav a{
+
+    color:white;
+
+    text-decoration:none;
+
+    margin:20px;
+
+    font-weight:bold;
+
+}
+
+/* ---------------------------- */
+
+nav a:hover{
+
+    color:yellow;
+
+}
+
+/* ---------------------------- */
+
+.banner img{
+
+    width:500px;
+
+    height:auto;
+
+    margin-top:20px;
+
+    border-radius:15px;
+
+}
+
+/* ---------------------------- */
+
+.presentacion{
+
+    width:80%;
+
+    margin:auto;
+
+    padding:20px;
+
+}
+
+/* ---------------------------- */
+
+button{
+
+    background:#ff5722;
+
+    color:white;
+
+    font-size:20px;
+
+    padding:15px;
+
+    border:none;
+
+    border-radius:10px;
+
+    cursor:pointer;
+
+}
+
+/* ---------------------------- */
+
+button:hover{
+
+    background:#e53935;
+
+}
+
+/* ---------------------------- */
+
+.tarjeta{
+
+    background:white;
+
+    width:70%;
+
+    margin:30px auto;
+
+    padding:20px;
+
+    border-radius:20px;
+
+    box-shadow:0px 0px 12px gray;
+
+}
+
+/* ---------------------------- */
+
+.tarjeta:hover{
+
+    background:#fff6d8;
+
+}
+
+/* ---------------------------- */
+
+.tarjeta img{
+
+    width:250px;
+
+    border-radius:15px;
+
+}
+
+/* ---------------------------- */
+
+.audio{
+
+    margin:40px;
+
+}
+
+/* ---------------------------- */
+
+.video{
+
+    margin:40px;
+
+}
+
+/* ---------------------------- */
+
+iframe{
+
+    max-width:90%;
+
+}
+
+/* ---------------------------- */
+
+footer{
+
+    background:#333;
+
+    color:white;
+
+    padding:20px;
+
+    margin-top:40px;
+
+}
